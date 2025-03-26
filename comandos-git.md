@@ -1,3 +1,7 @@
-git add .
+git pull master
+git checkout -b "feature/417630a"
+git status
+git add . 
 git commit -m "Comite para subir os dados do desafio do terminal"
-git push https://github.com/Barbaraftavares/Comandos_Terminal.git
+git status
+git push origin

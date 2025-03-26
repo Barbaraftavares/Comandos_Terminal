@@ -1,2 +1,2 @@
-O meu GIT estava instalado há muito tempo.
+O meu GIT estava instalado há muito tempo...
 
